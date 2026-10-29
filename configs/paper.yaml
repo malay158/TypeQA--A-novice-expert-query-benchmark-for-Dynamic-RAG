@@ -1,7 +1,6 @@
 project: ZeTIR
 manuscript_title: Adaptive Retrieval Augmented Generation Using User Type Inference from a Single Query
 status: reference_methodology_only
-# Parameters transcribed from the 25-page manuscript; not a verified original training run.
 chunk_tokens: 256
 overlap_tokens: 50
 encoder: sentence-transformers/all-MiniLM-L6-v2
